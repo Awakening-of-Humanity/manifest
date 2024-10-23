@@ -1,5 +1,5 @@
 
-![markdown logo](assets/images/mdp.svg)
+
 
 # markdown-pages.js - _simple Markdown-based static sites, without the generator_
 

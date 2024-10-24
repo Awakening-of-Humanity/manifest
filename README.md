@@ -32,8 +32,8 @@
 
 
 ---
-🤝 Присоединяйся к сообществу единомышленников в <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Logo" height="14"> 
-📜 Разрабатывается на условиях полной открытости в <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" height="14"> [`Awaikening of Humanity`](https://github.com/Awakening-of-Humanity)
+🤝 Присоединяйся к сообществу единомышленников в <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Logo" style="height: 14px;"> 
+📜 Разрабатывается на условиях полной открытости в <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" style="height: 14px;"> [`Awaikening of Humanity`](https://github.com/Awakening-of-Humanity)
 
 
 

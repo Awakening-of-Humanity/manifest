@@ -1,0 +1,2 @@
+Присоединяйся к сообществу единомышленников в telegram
+Разрабатывается на условиях полной открытости в ![github](./images/github.png) [`Awaikening of Humanity`](https://github.com/Awakening-of-Humanity)

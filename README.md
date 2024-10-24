@@ -30,5 +30,12 @@
 Прими этот вызов. Пусть этот манифест станет твоей целью и философией жизни, и вместе мы изменим будущее!
 
 
-> :handshake: Присоединяйся к сообществу единомышленников в telegram
-> :scroll: Разрабатывается на условиях полной открытости в [`Awaikening of Humanity`](https://github.com/Awakening-of-Humanity)
+
+---
+🤝 Присоединяйся к сообществу единомышленников в <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Logo" height="14"> 
+📜 Разрабатывается на условиях полной открытости в <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" height="14"> [`Awaikening of Humanity`](https://github.com/Awakening-of-Humanity)
+
+
+
+
+
